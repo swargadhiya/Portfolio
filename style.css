@@ -73,7 +73,7 @@ a:hover {
 }
 
 .hamburger-menu {
-  position: relative;
+  position: absolute;
   display: inline-block;
 }
 
